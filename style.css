@@ -29,3 +29,16 @@ img {
     width: 160px;
     margin: 50px auto 0;
 }
+
+.guess{
+    display: inline;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 36px;
+    padding: 15px 30px;
+    margin: 0px 2.5px;
+}
+
+#guesses {
+    margin: 30px 0px;
+}
